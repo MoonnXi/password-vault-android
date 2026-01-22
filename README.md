@@ -21,6 +21,9 @@
 ### 倒计时页面
 <img src="assets/countdown_page.png" width="400" alt="倒计时页面">
 
+### 密码提取页面
+<img src="assets/extract_page.png" width="400" alt="密码提取页面">
+
 ### 历史密码页面
 <img src="assets/history_page.png" width="400" alt="历史密码页面">
 
