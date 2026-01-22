@@ -13,16 +13,16 @@
 ## 预览
 
 ### 密码配置页面
-![密码配置页面](assets/config_page.png)
+<img src="assets/config_page.png" width="400" alt="密码配置页面">
 
 ### 密码生成页面
-![密码生成页面](assets/password_page.png)
+<img src="assets/password_page.png" width="400" alt="密码生成页面">
 
 ### 倒计时页面
-![倒计时页面](assets/countdown_page.png)
+<img src="assets/countdown_page.png" width="400" alt="倒计时页面">
 
 ### 历史密码页面
-![历史密码页面](assets/history_page.png)
+<img src="assets/history_page.png" width="400" alt="历史密码页面">
 
 ## 安装步骤
 
