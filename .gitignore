@@ -1,0 +1,17 @@
+# Android/IntelliJ
+build/
+.idea/
+.gradle/
+local.properties
+*.iml
+*.hprof
+*.keystore
+!debug.keystore
+
+# Windows
+Thumbs.db
+*.swp
+*.swo
+
+# macOS
+.DS_Store

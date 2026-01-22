@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">密码保险箱</string>
+    <string name="config_title">密码配置</string>
+    <string name="password_length">密码长度</string>
+    <string name="include_lowercase">包含小写字母</string>
+    <string name="include_uppercase">包含大写字母</string>
+    <string name="include_digits">包含数字</string>
+    <string name="include_special">包含特殊字符</string>
+    <string name="unlock_duration">解锁时长</string>
+    <string name="save_config">保存配置</string>
+    <string name="countdown_title">密码已封存</string>
+    <string name="unlock_time">解锁时间</string>
+    <string name="countdown_format">%02d:%02d:%02d:%02d</string>
+    <string name="extract_title">密码已就绪</string>
+    <string name="copy_password">复制密码</string>
+    <string name="password_copied">密码已复制</string>
+    <string name="password_extracted">密码已提取</string>
+    <string name="regenerating_password">正在重新生成密码...</string>
+    <string name="network_error">网络错误</string>
+    <string name="offline_mode">离线模式</string>
+    <string name="config_valid">配置有效</string>
+    <string name="config_invalid">配置无效</string>
+    <string name="password_sealed">密码已封存，请等待倒计时结束。</string>
+    <string name="password_one_time_view">这是一次性查看。复制后，密码将重新生成。</string>
+    <string name="password_placeholder">密码将显示在这里</string>
+</resources>
